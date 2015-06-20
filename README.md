@@ -1,5 +1,5 @@
 # profit-detector
-A bash scriptlet for identifying, definitively, how much something costs to make in EVE online.
+A python scriptlet for identifying, definitively, how much something costs to make in EVE online.
 
 First setup June 19th, 2015.
 
